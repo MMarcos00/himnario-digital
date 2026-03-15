@@ -1,0 +1,20 @@
+[
+  {
+    "numero": 1,
+    "titulo": "Sublime Gracia",
+    "estrofas": [
+      "Sublime gracia del Señor que a un infeliz salvó",
+      "Fui ciego mas hoy miro yo perdido y Él me halló"
+    ],
+    "coro": "Gracia, gracia infinita gracia"
+  },
+  {
+    "numero": 2,
+    "titulo": "Castillo Fuerte",
+    "estrofas": [
+      "Castillo fuerte es nuestro Dios",
+      "Defensa y buen escudo"
+    ],
+    "coro": "Nuestro amparo es el Señor"
+  }
+]
