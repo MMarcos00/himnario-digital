@@ -1,13 +1,7 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
-export default defineConfig(({ command }) => {
-
-  return {
-    plugins: [vue()],
-    base: command === 'build'
-        ? '/himnario-digital/'
-        : '/'
-  }
-
+export default defineConfig({
+  base: '/himnario-digital/',
+  plugins: [vue()],
 })
